@@ -8,8 +8,11 @@ Sometimes you have a public website (like WordPress or Simple Machine Forum), wh
 
 ## Installation
 
-1. Make sure Python 3 is installed: `python3 --version`
-2. Not installed? Install it: [https://python.org](python.org) or using package manager: `sudo apt install python3`
+1. Download the script: \
+`wget https://github.com/errmakov/de-stash-git_changes/raw/master/de-stash-git_changes.py ` \
+or save by link: [de-stash-git_changes.py](https://github.com/errmakov/de-stash-git_changes/raw/master/de-stash-git_changes.py)
+2. Make sure Python 3 is installed: `python3 --version`
+2. Not installed? Install it: [python.org](https://python.org) or using package manager: `sudo apt install python3`
 3. Make sure de-stash-git_changes.py is executable: `chmod +x de-stash-git_changes.py` 
 
 ## Usage
